@@ -1,0 +1,21 @@
+{
+  "name": "node-skeleton",
+  "version": "0.0.0",
+  "description": "NodeJs + express + angularJs skeleton.",
+  "main": "app.js",
+  "author": "OriW",
+  "engine": "node v6.4",
+  "dependencies": {
+    "express": "^4.16.4",
+    "npm-watch": "^0.3.0",
+    "simple-youtube-api": "^5.1.1",
+    "youtube-channel-videos": "^1.0.0"
+  },
+  "watch": {
+    "start": "server/*.js"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "watch": "npm-watch"
+  }
+}
