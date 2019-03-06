@@ -1,9 +1,9 @@
 {
   "name": "node-skeleton",
   "version": "0.0.0",
-  "description": "NodeJs + express + angularJs skeleton.",
+  "description": "Get Youtube Details.",
   "main": "app.js",
-  "author": "OriW",
+  "author": "Karnav Pargi",
   "engine": "node v6.4",
   "dependencies": {
     "express": "^4.16.4",
