@@ -1,4 +1,4 @@
-# Skeleton app with Node.js + express + angular
+# Get Youtube Details.
 
 ## Requirements
 
