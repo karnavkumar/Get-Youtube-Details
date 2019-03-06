@@ -2,12 +2,12 @@
 
 ## Requirements
 
-- [Node(v6.4) and npm](http://nodejs.org)
+- [Node(>=v6.4) and npm](http://nodejs.org)
 
 ## Installation
 
-1. `git clone git@github.com:forter/node-skeleton.git`
-2. `cd node-skeleton`
+1. `https://github.com/karnavkumar/Get-Youtube-Details.git`
+2. `cd Get-Youtube-Details`
 3. `npm install`
 3. `npm start`
 4. Go to `http://localhost:3000`
